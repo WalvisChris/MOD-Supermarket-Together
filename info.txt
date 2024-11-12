@@ -1,0 +1,6 @@
+Data_container > Shelve stocking, box spawning, employee behaviour, NPC item picking, payments
+FirstPersonTransform > rb
+Game_Canvas > screen text
+Game_data > a lot, franchise level
+Manager Blackboard > manager blackboard
+NPC_Info > message above head
