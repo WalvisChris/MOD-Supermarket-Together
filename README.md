@@ -6,22 +6,28 @@
 - Custom Notifications (KL)
 - Custom NPC dialogue
 
-# Instructions
-
-1. Install dnSpy [here](https://github.com/dnSpy/dnSpy).
-2. Open the games code `C:\Program Files (x86)\Steam\steamapps\common\SupermarketTogether\SupermarketTogether_Data\Managed\Assembly-CSharp.dll` or click `Manage > Browse local files` in steam.
-3. Replace the ingame methods with my GitHub methods.
-4. Use the **Common Errors** chapter in this README to fix errors for compiling.
-5. Safe each module you edited.
-6. Run the game.
-7. To delete the mod, in the `Managed` file delete the .dll files you edited. Then go to steam and click `Manage > verify integrity of game files` on the game.
-
-# To do
+# Idea list
 
 - Franchise points progressbar
 - NPC rigidbody manipulation
 
-# Common Errors
+# Instructions - COMING SOON
+
+1. Open the game files. You can do this by right-clicking on your game in steam and clicking `manager > browse local files`. Go to the `Managed` folder.
+2. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the games code with the modded code.
+3. To delete the mod, in the `Managed` file delete the .dll files dragged in. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
+
+# Instructions for programmers
+
+1. Install dnSpy [here](https://github.com/dnSpy/dnSpy).
+2. Open the games code `C:\Program Files (x86)\Steam\steamapps\common\SupermarketTogether\SupermarketTogether_Data\Managed\Assembly-CSharp.dll` or click `Manage > Browse local files` in steam.
+3. Replace the ingame methods with my GitHub methods.
+4. Use the **Common Modding Errors** chapter in this README to fix errors for compiling.
+5. Safe each module you edited.
+6. Run the game.
+7. To delete the mod, in the `Managed` file delete the .dll files you edited. Then go to steam and click `Manage > verify integrity of game files` on the game.
+
+# Common Modding Errors
 
 > 'IEnumerator': type used in a using statement must be implicitly converitble to 'System.IDisposable'
 
