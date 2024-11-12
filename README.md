@@ -1,9 +1,9 @@
 # Features
 
-- Flying
-- Spawn Trash
+- Flying (WASD, SPACE, R)
+- Spawn Trash (B)
 - Price Tooltip
-- Custom Notifications
+- Custom Notifications (KL)
 - Custom NPC dialogue
 
 # Instructions
