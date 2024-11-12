@@ -2,9 +2,9 @@
 
 - Flying (WASD, SPACE, R)
 - Spawn Trash (B)
-- Price Tooltip
+- Pricegun Tooltip
 - Custom Notifications (KL)
-- Custom NPC dialogue
+- Custom NPC messages
 
 # Idea list
 
