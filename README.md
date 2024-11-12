@@ -10,6 +10,7 @@
 
 - Franchise points progressbar
 - NPC rigidbody manipulation
+- Custom broom hitting
 
 # Instructions - COMING SOON
 
