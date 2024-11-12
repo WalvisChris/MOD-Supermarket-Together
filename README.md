@@ -31,7 +31,7 @@
 
 > 'IEnumerator': type used in a using statement must be implicitly converitble to 'System.IDisposable'
 
-replace the IEnumerate with a foreach loop
+replace the IEnumerate with a foreach loop (ask ChatGPT for the code)
 
 > 'Random' is an ambiguous reference between 'UnityEngine.Random' and 'System.Random'
 
