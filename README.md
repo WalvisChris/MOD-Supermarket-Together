@@ -12,7 +12,7 @@
 - NPC rigidbody manipulation
 - Custom broom hitting
 
-# Instructions - COMING SOON
+# Instructions
 
 1. Open the game files. You can do this by right-clicking on your game in steam and clicking `manager > browse local files`. Go to the `Managed` folder.
 2. Download and rename the files from my `EasyFiles` (GitHub): Remove the first word (which is in captial letters) from the name.
