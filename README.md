@@ -15,7 +15,7 @@
 # Instructions - COMING SOON
 
 1. Open the game files. You can do this by right-clicking on your game in steam and clicking `manager > browse local files`. Go to the `Managed` folder.
-2. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the games code with the modded code.
+2. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
 3. To delete the mod, in the `Managed` file delete the .dll files that you dragged in. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
 
 # Instructions for programmers
