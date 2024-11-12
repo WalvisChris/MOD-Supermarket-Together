@@ -15,13 +15,14 @@
 # Instructions - COMING SOON
 
 1. Open the game files. You can do this by right-clicking on your game in steam and clicking `manager > browse local files`. Go to the `Managed` folder.
-2. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
-3. To delete the mod, in the `Managed` file delete the .dll files that you dragged in. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
+2. Download and rename the files from my `EasyFiles` (GitHub): Remove the first word (which is in captial letters) from the name.
+3. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
+4. To delete the mod, in the `Managed` file delete the .dll files that you dragged in. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
 
 # Instructions for programmers
 
 1. Install dnSpy [here](https://github.com/dnSpy/dnSpy).
-2. Open the games code `C:\Program Files (x86)\Steam\steamapps\common\SupermarketTogether\SupermarketTogether_Data\Managed\Assembly-CSharp.dll` or click `Manage > Browse local files` in steam.
+2. Open the games code `C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Assembly-CSharp.dll` or click `Manage > Browse local files` in steam.
 3. Replace the ingame methods with my GitHub methods.
 4. Use the **Common Modding Errors** chapter in this README to fix errors for compiling.
 5. Safe each module you edited.

@@ -24,7 +24,6 @@ private void Move()
     {
         num = 0f;
     }
-    Vector3 vector = new Vector3(axisRaw, 0f, axisRaw2).normalized;
     if (this.MOD_isFlying)                              // EDIT: handle vertical velocity
     {                                                   //
         this.MoveSpeed = 10f;                           //
@@ -41,12 +40,12 @@ private void Move()
         {                                               //
             this._verticalVelocity = 0f;                //
         }                                               //
-    }
-    else
-    {
-        this.MoveSpeed = 5f;
-        this.SprintSpeed = 10f;
-    }
+    }                                                   //
+    else                                                //
+    {                                                   //
+        this.MoveSpeed = 5f;                            //
+        this.SprintSpeed = 10f;                         //
+    }                                                   //
     float magnitude = new Vector3(this._controller.velocity.x, 0f, this._controller.velocity.z).magnitude;
     float num2 = 0.1f;
     float magnitude2 = lhs.magnitude;
@@ -60,6 +59,7 @@ private void Move()
         this._speed = num;
     }
     this._speed = Mathf.Clamp(this._speed, 0f, this.SprintSpeed);
+    Vector3 vector = new Vector3(axisRaw, 0f, axisRaw2).normalized;
     if (lhs != Vector2.zero)
     {
         vector = base.transform.right * axisRaw + base.transform.forward * axisRaw2;
