@@ -2,11 +2,11 @@
 Flying mod
 */
 
-private bool MOD_isFlying = false; // EDIT: add this to the class!!!
+private bool MOD_isFlying = false; // Edit: add this to the class!!!
 
 private void Move()
 {
-    if (Input.GetKeyDown(KeyCode.G)) { this.MOD_isFlying = !this.MOD_isFlying; } // EDIT: toggle flying with 'g'                                                       //
+    if (Input.GetKeyDown(KeyCode.G)) { this.MOD_isFlying = !this.MOD_isFlying; } // Edit: toggle flying with 'g'                                                       //
 
     float num;
     if (this.IsCrouching)
@@ -24,7 +24,7 @@ private void Move()
     {
         num = 0f;
     }
-    if (this.MOD_isFlying)                              // EDIT: handle vertical velocity
+    if (this.MOD_isFlying)                              // Edit: handle vertical velocity
     {                                                   //
         this.MoveSpeed = 10f;                           //
         this.SprintSpeed = 20f;                         //

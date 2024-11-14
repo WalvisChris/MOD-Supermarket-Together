@@ -6,7 +6,7 @@ protected void UserCode_RPCNotificationAboveHead__String__String(string message1
 {
     GameObject gameObject = UnityEngine.Object.Instantiate<GameObject>(this.messagePrefab, base.transform.position + Vector3.up * 1.8f, Quaternion.identity);
     
-    string[] MOD_npcMessages = {													    // EDIT: custom message
+    string[] MOD_npcMessages = {													    // Edit: custom message
         "NPC custom message 1",											                //
         "NPC custom message 2",											                //
         "NPC custom message 3"													        //

@@ -9,6 +9,7 @@
 # Idea list
 
 - Franchise points progressbar
+- Pricing unit Tooltip
 - NPC rigidbody manipulation
 - Custom broom hitting
 

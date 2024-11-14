@@ -8,8 +8,6 @@ private void Update()
 	{
 		this.keyPress = true;
 	}
-	if (Input.GetKeyDown(KeyCode.B))				// EDIT: press 'b' to spawn trash 
-	{												//
-		base.StartCoroutine(this.SpawnTrash());		//
-	}												//
+	
+	if (Input.GetKeyDown(KeyCode.B)) { base.StartCoroutine(this.SpawnTrash()); } // Edit: press B to spawn trash
 }
