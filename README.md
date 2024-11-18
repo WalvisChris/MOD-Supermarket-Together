@@ -1,3 +1,7 @@
+# OUTDATED!
+
+**The mod is outdated due to the new update. I will be working on an updated version. Feel free to share mod ideas!**
+
 # Features
 
 - Flying (WASD, SPACE, R)
@@ -12,6 +16,8 @@
 - Pricing unit Tooltip
 - NPC rigidbody manipulation
 - Custom broom hitting
+- NPC conversation (+ reputation)
+- RGB Lights
 
 # Instructions
 
