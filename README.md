@@ -30,6 +30,14 @@
 4. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
 5. To delete the mod, in the `Managed` file delete the .dll files that you dragged in. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
 
+# Images
+
+Pricegun tooltip:
+![skriensjot](https://github.com/user-attachments/assets/eb816d84-2499-45d8-bfbb-79bd86790f10)
+
+Franchise progression indicator:
+![skriensjot2](https://github.com/user-attachments/assets/0d25bf6f-1d30-4025-8997-56b00070b5b7)
+
 # Instructions for programmers
 
 1. Install dnSpy [here](https://github.com/dnSpy/dnSpy).

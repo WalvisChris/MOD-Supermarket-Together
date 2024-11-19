@@ -1,4 +1,5 @@
 /*
+Updating Franchise Progession indicator
 Trash Spawning Mod with 'b'
 */
 
@@ -8,6 +9,6 @@ private void Update()
 	{
 		this.keyPress = true;
 	}
-	
-	if (Input.GetKeyDown(KeyCode.B)) { base.StartCoroutine(this.SpawnTrash()); } // Edit: press B to spawn trash
+	this.UpdateFranchisePoints(0, this.gameFranchisePoints);						// Edit: make sure the % is updated every frame
+	if (Input.GetKeyDown(KeyCode.B)) { base.StartCoroutine(this.SpawnTrash()); } 	// Edit: press B to spawn trash
 }
