@@ -9,10 +9,10 @@
 - Pricegun Tooltip
 - Custom Notifications (KL)
 - Custom NPC messages
+- Franchise points progressbar
 
 # Idea list
 
-- Franchise points progressbar
 - Pricing unit Tooltip
 - NPC rigidbody manipulation
 - Custom broom hitting
