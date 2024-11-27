@@ -23,9 +23,8 @@
 
 1. Open your Supermarket Together game files. You can do this by right-clicking on your game in steam and clicking `manage > browse local files`. Go to the `Managed` folder.
 2. Download the files from my `dll Files` folder (GitHub).
-3. Now choose which mods you want to use from my `EasyFiles` (GitHub):
-    - `COMING SOON`
-4. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
+3. In `dll Files` choose the folder with the mods you want and download the .dll files inside.
+4. Drag the files from my `dll Files` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
 5. To remove the mods, in the `Managed` file delete the .dll files that you dragged in from my mod. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
 
 # Images
