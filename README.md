@@ -9,11 +9,11 @@
 - Pricegun Tooltip
 - Custom Notifications (KL)
 - Custom NPC messages
-- Franchise points progressbar
+- Franchise points progressbar (P)
 
 # Idea list
 
-- Pricing unit Tooltip
+- Faster Cleaning Robots
 - NPC rigidbody manipulation
 - Custom broom hitting
 - NPC conversation (+ reputation)

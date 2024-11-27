@@ -2,6 +2,7 @@
 Caculating Franchise progession
 */
 
+private bool ProgressBarTheme = false;	// Edit: add this to the bottom of the class
 private float currentLevelProgress;     // Edit: don't forget to add this
 
 private void CalculateFranchiseLevel(int oldExp, int newExp)
@@ -16,7 +17,6 @@ private void CalculateFranchiseLevel(int oldExp, int newExp)
 				float num3 = (float)(newExp - (num - num2 * 100));
 				float num4 = (float)(num2 * 100);
 				this.currentLevelProgress = num3 / num4 * 100f;     // Edit: get %
-				this.currentLevelXPRequired = num4;                 // temp
 				this.gameFranchiseLevel = num2;
 				this.UIFranchiseLevelOBJ.text = num2.ToString();
 				this.franchiseProgressionImage.fillAmount = 0.2f + 0.62f * num3 / num4;
