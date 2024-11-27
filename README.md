@@ -22,13 +22,11 @@
 # Instructions
 
 1. Open the game files. You can do this by right-clicking on your game in steam and clicking `manager > browse local files`. Go to the `Managed` folder.
-2. Download and rename the files from my `EasyFiles` (GitHub): Remove the first word (which is in captial letters) from the name.
+2. Download the files from my `dll Files` folder (GitHub).
 3. Now choose which mods you want to use from my `EasyFiles` (GitHub):
-    - `FLY Unity.StarterAssets.dll` is the fly mod
-    - `MOD Assembly-CSharp.dll` is all mods except flying (because its needs to be a separate file)
-    - `TOOLTIPS Assembly-CSharp.dll` is only the pricegun helper
+    - `COMING SOON`
 4. Drag the files from my `EasyFiles` (GitHub) to the `Managed` folder (Game) to replace the game code with the modded code.
-5. To delete the mod, in the `Managed` file delete the .dll files that you dragged in. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
+5. To remove the mods, in the `Managed` file delete the .dll files that you dragged in from my mod. Then go to steam and click `Manage > verify integrity of game files` on the game. This will reset the game code back to the original.
 
 # Images
 
