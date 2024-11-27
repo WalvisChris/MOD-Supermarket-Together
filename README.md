@@ -21,7 +21,7 @@
 
 # Instructions
 
-1. Open the game files. You can do this by right-clicking on your game in steam and clicking `manager > browse local files`. Go to the `Managed` folder.
+1. Open your Supermarket Together game files. You can do this by right-clicking on your game in steam and clicking `manage > browse local files`. Go to the `Managed` folder.
 2. Download the files from my `dll Files` folder (GitHub).
 3. Now choose which mods you want to use from my `EasyFiles` (GitHub):
     - `COMING SOON`
